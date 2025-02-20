@@ -53,7 +53,9 @@ class HomeViewController: UIViewController {
 		serviceWorker.fetchMovies { [weak self] movies in
 			guard let self = self else { return }
 			self.movieModels = movies ?? [MovieModel]()
-			self.collectionView?.reloadData()
+            DispatchQueue.main.async {
+                self.collectionView?.reloadData()
+            }
 		}
 	}
 }

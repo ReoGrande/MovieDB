@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "696A46AE-4075-4F38-8330-796D5394964C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6852889-39C8-4B39-83F9-0F8007345A66"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RottenMovies/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "populateMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6852889-39C8-4B39-83F9-0F8007345A66 - d5c9b44c8fdb4796"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;RottenMovies.MovieModel&gt;&gt;) -&gt; () in RottenMovies.HomeViewController.populateMovies() -&gt; ()"
+                  moduleName = "RottenMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Downloads/MovieDB/RottenMovies/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  uuid = "C6852889-39C8-4B39-83F9-0F8007345A66 - d5c9b44c8fdb4796"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;RottenMovies.MovieModel&gt;&gt;) -&gt; () in RottenMovies.HomeViewController.populateMovies() -&gt; ()"
+                  moduleName = "RottenMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Downloads/MovieDB/RottenMovies/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "C6852889-39C8-4B39-83F9-0F8007345A66 - d5c9b44c8fdb4796"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;RottenMovies.MovieModel&gt;&gt;) -&gt; () in RottenMovies.HomeViewController.populateMovies() -&gt; ()"
+                  moduleName = "RottenMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Downloads/MovieDB/RottenMovies/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF2C902F-6617-42CE-8071-CE7F25C7A0EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RottenMovies/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4611A87E-EADD-4FF1-AE70-43F94CCA1E5D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RottenMovies/SharedModels/MovieModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "init(title:overview:imageURLPath:voteAverage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C2E04A8-335A-4195-A4CB-95864B4C203A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RottenMovies/Services/MovieListServiceWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchMovies(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17218240-5D30-45E2-9297-0636E77CE188"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RottenMovies/SharedModels/MovieParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "makeMovies(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BAE626E-1088-42DF-9470-E975E3A68EDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RottenMovies/SharedModels/MovieParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "makeMovies(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9BAE626E-1088-42DF-9470-E975E3A68EDD - 4889cbed81d4bfa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RottenMovies.MovieParser.makeMovies(from: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;Swift.Array&lt;RottenMovies.MovieModel&gt;&gt;"
+                  moduleName = "RottenMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Downloads/MovieDB/RottenMovies/SharedModels/MovieParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  uuid = "9BAE626E-1088-42DF-9470-E975E3A68EDD - 4889cbed81d4bfa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RottenMovies.MovieParser.makeMovies(from: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;Swift.Array&lt;RottenMovies.MovieModel&gt;&gt;"
+                  moduleName = "RottenMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Downloads/MovieDB/RottenMovies/SharedModels/MovieParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

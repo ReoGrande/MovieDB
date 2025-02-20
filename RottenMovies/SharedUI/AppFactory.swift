@@ -20,7 +20,9 @@ class AppFactory {
 		tabBarController.tabBar.backgroundColor = .white
 		tabBarController.viewControllers = [makeHomeViewController(), makeSearchViewController()]
 		tabBarController.tabBar.items?[Tab.home.rawValue].image = UIImage(systemName: "video.circle.fill")
+        tabBarController.tabBar.items?[Tab.home.rawValue].title = "Best Movies"
 		tabBarController.tabBar.items?[Tab.search.rawValue].image = UIImage(systemName: "magnifyingglass.circle.fill")
+        tabBarController.tabBar.items?[Tab.search.rawValue].title = "Search"
 		return tabBarController
 	}
 	

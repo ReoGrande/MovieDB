@@ -10,7 +10,7 @@ class MovieParser: MovieFactoryProtocol {
 		guard let moviesJson = json["results"] as? [[String: Any]] else { return nil }
 		var movies = [MovieModel]()
 		for movie in moviesJson {
-			if let title = movie["movieTitle"] as? String,
+			if let title = movie["title"] as? String,
 			   let imageURL = movie["poster_path"] as? String,
 			   let overview = movie["overview"] as? String {
 				let voteAverage = movie["vote_average"] as? Double

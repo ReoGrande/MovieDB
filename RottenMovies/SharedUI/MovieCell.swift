@@ -22,9 +22,11 @@ class MovieCell: UICollectionViewCell {
 				voteAverageLabel.isHidden = false
 				voteAverageLabel.text = String(format: "%0.1f / 10", voteAverage)
 				
-				if voteAverage >= 7.5 {
+				if voteAverage >= Double(7.5) {
 					backgroundColor = .orange
-				}
+                } else {
+                    backgroundColor = .clear
+                }
 			} else {
 				voteAverageLabel.isHidden = true
 			}
